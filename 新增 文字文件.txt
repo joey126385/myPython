@@ -1,0 +1,10 @@
+pycharm软件+安装教程
+链接：https://pan.baidu.com/s/1ryj1YbvLEPx8hFI0bRoL9w?pwd=wow9 
+提取码：wow9 
+
+1、在上课之前，请同学们务必安装学习需要的Python软件和pycharm软件
+https://note.youdao.com/s/2FfghK3Y（根据文档一步一步操作，肯定能安装成功的）
+2、打开课件里md格式文件
+typora软件安装
+链接：https://pan.baidu.com/s/1QepHeFep_A6YZqypkpPdwQ?pwd=z8ck 
+提取码：z8ck
